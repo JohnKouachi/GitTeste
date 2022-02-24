@@ -15,5 +15,5 @@ class MainActivity : AppCompatActivity() {
     //dsfsdf
 
     //mudança de condigo com criação de branch
-        //açteração 2
+        //alteração 2
 }
